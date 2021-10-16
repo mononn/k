@@ -1,0 +1,27 @@
+title: 추
+author: 추
+email: chu@mononn.com
+description: >- # this means to ignore newlines until "baseurl:"
+  한 대로
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://blog.mononn.com
+favicon:
+show_excerpts: false
+
+# Build settings
+theme: moving
+plugins:
+  - jekyll-feed
+
+permalink: /:title/
+timezone: Asia/Seoul
+
+google_analytics: 'UA-156427940-2' # leave it blank if not wish
+
+moving:
+  date_format: "%b %d" # date format of posts in home page
+  back_to: "목록으로"
+
+  # generate social links in about page.
+  social_links:
+    rss: RSS
