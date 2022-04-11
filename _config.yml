@@ -4,7 +4,7 @@ email: k@mononn.com
 description: >- # this means to ignore newlines until "baseurl:"
   일희일비
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://blog.mononn.com
+url: https://k.mononn.com
 favicon:
 show_excerpts: false
 
